@@ -1,0 +1,46 @@
+ body {
+     margin: 0;
+     padding: 0;
+     background-color:  #F7E9E6  ;
+
+
+
+ }
+
+
+
+ .keys {
+     display: flex;
+     justify-content: center;
+   
+ }
+
+
+ .key {
+     border: 5px solid black;
+     min-width: 8.5vw;
+     min-height: 100vh;
+     background-color: white;
+     
+
+ }
+
+
+ h1 {
+    text-align: center;
+ }
+
+
+ img {
+    margin-top: 1vh;
+    margin-left: 2vw;
+ }
+
+ marquee {
+ style="color:#f25100"
+
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
